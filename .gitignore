@@ -1,0 +1,18 @@
+# Node modules (if you're using Node.js in the future)
+node_modules/
+
+# Build artifacts
+/dist
+/build
+
+# Logs
+*.log
+
+# OS-specific files (MacOS, Windows, Linux)
+.DS_Store
+Thumbs.db
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+*.swp
